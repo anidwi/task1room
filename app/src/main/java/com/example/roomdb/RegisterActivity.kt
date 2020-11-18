@@ -38,5 +38,8 @@ class RegisterActivity : AppCompatActivity() {
                 finish()
             }
         }
+        logintext.setOnClickListener {
+            startActivity(Intent(this@RegisterActivity, LoginActivity::class.java))
+        }
     }
 }

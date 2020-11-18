@@ -9,4 +9,7 @@
     <string name="login">LOGIN</string>
     <string name="email">Email</string>
     <string name="update">UPDATE</string>
+    <string name="nama">Nama</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="logout">LOGOUT</string>
 </resources>
